@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/series HTTP/1.1
+Content-Type: application/json
+
+{
+    "exercise_id": 1,
+    "series_number":1 ,
+    "completed_value": 1
+}
+
